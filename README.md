@@ -1,4 +1,4 @@
-# Python Training
+# SBTT - PYTHON
 
 My notes and practice code from the Python training. Each day has its own folder with a notes file (`.docx`) and the programs we did that day, one program per `.py` file.
 
