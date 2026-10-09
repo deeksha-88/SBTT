@@ -1,0 +1,3 @@
+# all odd numbers in one line
+for i in range(1, 101, 2):
+    print(i, end=" ")
